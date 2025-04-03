@@ -1,0 +1,12 @@
+torch
+transformers
+pillow
+pytesseract
+qdrant-client
+langchain-community
+pymc
+fastapi
+uvicorn
+redis
+newsapi-python
+alpha-vantage
